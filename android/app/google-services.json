@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "117198652965",
+    "project_id": "fir-signin-5b467",
+    "storage_bucket": "fir-signin-5b467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117198652965:android:3bc8b5f5dd49f9fdb6a1cc",
+        "android_client_info": {
+          "package_name": "com.example.doctorsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117198652965-6kp697m573ptgspgq5072nm3rkpftdtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB9FEYnLMwAAs1hNiEFscEGL8ZyjYKLlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117198652965-6kp697m573ptgspgq5072nm3rkpftdtm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "117198652965-j3r9lg3j05p5os02opga1l03e1k2v6fk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseSignin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117198652965:android:bccf3cbaa7bc69a1b6a1cc",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117198652965-6kp697m573ptgspgq5072nm3rkpftdtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB9FEYnLMwAAs1hNiEFscEGL8ZyjYKLlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117198652965-6kp697m573ptgspgq5072nm3rkpftdtm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "117198652965-j3r9lg3j05p5os02opga1l03e1k2v6fk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseSignin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
